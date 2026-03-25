@@ -6,3 +6,4 @@ create table Ususario {
     email varchar(255) not null unique
 }
 
+drop table Ususario;
