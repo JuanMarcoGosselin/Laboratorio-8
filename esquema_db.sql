@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 use database lab8;
 
 create table Ususario {
@@ -6,4 +7,3 @@ create table Ususario {
     email varchar(255) not null unique
 }
 
-drop table Ususario;
